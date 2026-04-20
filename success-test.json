@@ -1,1 +1,1 @@
-{"client_name":"Test Success Junkcode","client_id":"https://github.com/apranade/cimd-testing/blob/main/success-test","redirect_uris":["http://localhost:8000/oauth21dcr"]}
+{"client_name":"Test Success Junkcode","client_id":"https://apranade.github.io/cimd-testing/success-test.json","redirect_uris":["http://localhost:8000/oauth21dcr"]}
