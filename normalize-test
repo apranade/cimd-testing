@@ -1,1 +1,1 @@
-{"client_name":"Test Success Junkcode","client_id":"https://CIMD.s3.ap-south-1.amazonaws.com/cimd-1.json","redirect_uris":["http://localhost:8000/oauth21dcr"]}
+{"client_name":"Test Success Junkcode","client_id":"https://GITHUB.com/apranade/cimd-testing/blob/main/normalize-test","redirect_uris":["http://localhost:8000/oauth21dcr"]}
